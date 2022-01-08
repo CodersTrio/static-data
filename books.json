@@ -1,0 +1,138 @@
+[
+    {
+        "title": "Introduction to Computers",
+        "author": "Peter Norton",
+        "owner": "Ashab Hussan",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385308915i/280539.jpg",
+        "description": "This completely revised edition of Introduction to Computers offers a comprehensive grounding in computer concepts, reflecting some of the latest advances in technology, to prepare students for the next level of computer productivity. It includes three entirely new chapters on the Internet, computer graphics, and multimedia.\nThorough yet flexible, Introduction to Computers is appropriate for a full-semester course -- with or without a hands-on lab.",
+        "category": "CSE"
+    },
+    {
+        "title": "Data Structures Through C In Depth",
+        "author": "Deepali Srivastava",
+        "owner": "Jalal Chowdhury",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415858817i/2048787.jpg",
+        "description": "Thsi book is written in a simple manner and is very easy to understand. It describes the theory with examples step by step. It contains the description of writing tehse steps in programs in very easy and understanble manner.",
+        "category": "CSE"
+    },
+    {
+        "title": "Think Python",
+        "author": "Allen B. Downey",
+        "owner": "Asharful Islam",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344722863i/14514306.jpg",
+        "description": "\"How to Think Like a Computer Scientist: Learning with Python\" is an introduction to computer science using the Python programming language. It covers the basics of computer programming, including variables and values, functions, conditionals and control flow, program development and debugging. Later chapters cover basic algorithms and data structures.",
+        "category": "CSE"
+    },
+    {
+        "title": "Power Electronics: Circuits, Devices and Applications",
+        "author": "Muhammad H. Rashid",
+        "owner": "Ashab Hussan",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387702301i/1607146.jpg",
+        "description": "For junior or senior undergraduate students in Electrical and Electronic Engineering. This text covers the basics of emerging areas in power electronics and a broad range of topics such as power switching devices, conversion methods, analysis and techniques, and applications. Its unique approach covers the characteristics of semiconductor devices first, then discusses the applications of these devices for power conversions. Four main applications are included: flexible ac transmissions (FACTs), static switches, power supplies, dc drives, and ac drives. - New chapters - Including Ch. 9, Multilevel Inverters, Ch. 13, Flexible AC Transmission Systems, and Ch. 17, Gate Drive Circuits.', gives students the latest information available on these topics. - New sections throughout - Including Semiconductor Basics, State-Space Analysis of Regulators, Vector Controls, Stepper Motor Control and more, gives students the latest information available on these topics. - Well-written and easy-to-follow, helps students maintain interest in the text. - Numerous worked-out examples, demonstrates for students the applications of conversion techniques in design and analysis of converter cir",
+        "category": "EEE"
+    },
+    {
+        "title": "Linear and Nonlinear Circuits",
+        "author": "Mauro Parodi",
+        "owner": "Jalal Chowdhury",
+        "cover": "https://m.media-amazon.com/images/I/4162JPTJRoL.jpg",
+        "description": "This book provides readers with the necessary background information and advanced concepts in the field of circuits, at the crossroads between physics, mathematics and system theory. It covers various engineering subfields, such as electrical devices and circuits, and their electronic counterparts.\nBased on the idea that a modern university course should provide students with conceptual tools to understand the behavior of both linear and nonlinear circuits, to approach current problems posed by new, cutting-edge devices and to address future developments and challenges, the book places equal emphasis on linear and nonlinear, two‐terminal and multi‐terminal, as well as active and passive circuit components. The theory is developed systematically, starting with the simplest circuits (linear, time-invariant and resistive) and providing food for thought on nonlinear circuits, potential functions, linear algebra and geometrical interpretations of selected results. Contents are organized into a set of first‐level and a set of advanced‐level topics.",
+        "category": "EEE"
+    },
+    {
+        "title": "Feedback Control Systems",
+        "author": "Farzin Asadi",
+        "owner": "Asharful Islam",
+        "cover": "https://m.media-amazon.com/images/I/4194czHYuAL.jpg",
+        "description": "Feedback control systems is an important course in aerospace engineering, chemical engineering, electrical engineering, mechanical engineering, and mechatronics engineering, to name just a few. Feedback control systems improve the system's behavior so the desired response can be achieved. The first course on control engineering deals with Continuous Time (CT) Linear Time Invariant (LTI) systems. Plenty of good textbooks on the subject are available on the market, so there is no need to add one more. This book does not focus on the control engineering theories as it is assumed that the reader is familiar with them, i.e.\n, took/takes a course on control engineering, and now wants to learn the applications of MATLAB® in control engineering. The focus of this book is control engineering applications of MATLAB® for a first course on control engineering.",
+        "category": "EEE"
+    },
+    {
+        "title": "Conflict of Laws",
+        "author": "Michael H. Hoffheimer",
+        "owner": "Ashab Hussan",
+        "cover": "https://m.media-amazon.com/images/I/41k3kcQg-iL.jpg",
+        "description": "Clear, informal, and even humorous, Examples & Explanations: Conflicts of Law, Fourth Edition, explores all topics covered in Conflicts courses, including personal jurisdiction and the Erie doctrine. It covers traditional and modern approaches to choice of law, proof of law, and enforcement of foreign country and sister state judgments. It provides up-to-date coverage of constitutional limits on personal jurisdiction, choice of law, and actions against sister states. Big-picture overviews and accurate statements of rules are reinforced with concrete examples and test-taking tips.\nThe powerful Examples & Explanations pedagogy works especially well for Conflict of Laws where students gain understanding of rules and policies by applying them to new fact patterns. Summaries of leading cases found in most casebooks and a modular organization allows easy adaptation to any course. New to the Fourth Edition:Substantially revised personal jurisdiction chapters to add latest Supreme Court casesNew material on full faith and credit and immunity of state governments to suit in sister states in response to recent Supreme Court decisionsNew material on proof of foreign country law in response to recent Supreme Court decisionAdditional material on state law proof of law that refers to new developments in state lawNew examples and explanations that apply most recent changes in lawContinued coverage of same-sex marriage rights after ObergefellProfessors and students will benefit from:Big picture introductions that provide a helpful road mapAccurate summaries of specific rules of lawClear identification of problem areas and legal uncertaintiesStrategies for answering difficult questionsExamples that illustrate practical consequences of rulesExplanations that discuss the application of recent Supreme Court decisions ",
+        "category": "Law"
+    },
+    {
+        "title": "The Glannon Guide to Torts",
+        "author": "Richard L. Hasen",
+        "owner": "Jalal Chowdhury",
+        "cover": "https://m.media-amazon.com/images/I/41yWPRe9UbL.jpg",
+        "description": "A concise, clear, effective review of Tort law topics organized around the theme of multiple-choice questions. The basic format follows the same structure established by the first title in the series, Joseph Glannon’s The Glannon Guide to Civil Procedure. The book includes brief explanatory text about the topic under discussion, followed by one or two multiple-choice questions. After each question, the author explains how the correct choice was chosen. Thus the student reviews course content and also learns how to analyze exam questions.",
+        "category": "Law"
+    },
+    {
+        "title": "Civil Procedure",
+        "author": "Joseph W. Glannon",
+        "owner": "Asharful Islam",
+        "cover": "https://m.media-amazon.com/images/I/51pVbeq1VuL.jpg",
+        "description": "A favorite among successful students, and often recommended by professors, the unique Examples & Explanations series gives you extremely clear introductions to concepts followed by realistic examples that mirror those presented in the classroom throughout the semester. Use at the beginning and midway through the semester to deepen your understanding through clear explanations, corresponding hypothetical fact patterns, and analysis. Then use to study for finals by reviewing the hypotheticals as well as the structure and reasoning behind the accompanying analysis.",
+        "category": "Law"
+    },
+    {
+        "title": "Business Ethics",
+        "author": "Todd Pheifer",
+        "owner": "Ashab Hussan",
+        "cover": "https://m.media-amazon.com/images/I/41jBqEMPCxL.jpg",
+        "description": "Business ethics can be a difficult subject, but it doesn’t have to be. Effective decision making, policy construction, and organizational management are about developing an understanding of the principles that guide our daily living. In this book, explore the subject of business ethics through theory, case studies, and examples from popular culture. Learn practical tips on how to effectively navigate the complicated organizational morality of today’s world.",
+        "category": "Business Administration"
+    },
+    {
+        "title": "Data-Driven Business Models for the Digital Economy",
+        "author": "Rado Kotorov",
+        "owner": "Jalal Chowdhury",
+        "cover": "https://m.media-amazon.com/images/I/41ORf8hb15L.jpg",
+        "description": "Today the fastest growing companies have no physical assets. Instead, they create innovative digital products and new data-driven business models. They capture huge market share fast and their capitalizations skyrocket. The success of these digital giants is pushing all companies to rethink their business models and to start digitizing their products and services.Whether you are a new start-up building a digital product or service, or an employee of an established company that is transitioning to digital, you need to consider how digitization has transformed every aspect of management.",
+        "category": "Business Administration"
+    },
+    {
+        "title": "Construction Project Scheduling and Control",
+        "author": "Saleh A. Mubarak",
+        "owner": "Ashab Hussan",
+        "cover": "https://m.media-amazon.com/images/I/518eKnIIjoL.jpg",
+        "description": "Ensure successful construction projects through effective project scheduling and control The success of a construction project is dependent on a schedule that is well-defined yet flexible to allow for inevitable delays or changes. Without an effective schedule, projects often run over budget and deadlines are missed which can jeopardize the success of the project. The updated Construction Project Scheduling and Control, Fourth Edition is a comprehensive guide that examines the analytical methods used to devise an efficient and successful schedule for construction projects of all sizes",
+        "category": "CE"
+    },
+    {
+        "title": "Fundamentals of Sustainability in Civil Engineering",
+        "author": "Andrew Braham",
+        "owner": "Jalal Chowdhury",
+        "cover": "https://m.media-amazon.com/images/I/51v3HWMozUL.jpg",
+        "description": "This book will provide a foundation to understand the development of sustainability in civil engineering, and tools to address the three pillars of sustainability: economics, environment, and society. It will also include case studies in the four major areas of civil engineering: environmental, structural, geotechnical, and transportation, and utilize the concepts found on the Fundamentals of Engineering (FE) exam. It is intended for upper-level civil engineering sustainability courses.",
+        "category": "CE"
+    },
+    {
+        "title": "Introduction to Civil Engineering Systems",
+        "author": "Samuel Lab",
+        "owner": "Asharful Islam",
+        "cover": "https://m.media-amazon.com/images/I/51P5yffnQNL.jpg",
+        "description": "This book presents an integrated systems approach to the evaluation, analysis, design, and maintenance of civil engineering systems. Addressing recent concerns about the world's aging civil infrastructure and its environmental impact, the author makes the case for why any civil infrastructure should be seen as part of a larger whole. He walks readers through all phases of a civil project, from feasibility assessment to construction to operations, explaining how to evaluate tasks and challenges at each phase using a holistic approach. Unique coverage of ethics, legal issues, and management is also included.",
+        "category": "CE"
+    },
+    {
+        "title": "The Great Influenza",
+        "author": "John M. Barry",
+        "owner": "Ashab Hussan",
+        "cover": "https://m.media-amazon.com/images/I/5138PY68KhL.jpg",
+        "description": "#1 New York Times bestseller“Barry will teach you almost everything you need to know about one of the deadliest outbreaks in human history.”—Bill Gates, GatesNotes.com\"Monumental... an authoritative and disturbing morality tale.\"—Chicago Tribune  The strongest weapon against pandemic is the truth. Read why in the definitive account of the 1918 Flu Epidemic.  Magisterial in its breadth of perspective and depth of research, The Great Influenza provides us with a precise and sobering model as we confront the epidemics looming on our own horizon.",
+        "category": "Public Health"
+    },
+    {
+        "title": "How to Survive a Plague",
+        "author": "David France",
+        "owner": "Jalal Chowdhury",
+        "cover": "https://m.media-amazon.com/images/I/51nqgZcXUXL.jpg",
+        "description": "A New York Times 2016 Notable BookThe definitive history of the successful battle to halt the AIDS epidemic—from the creator of, and inspired by, the seminal documentary How to Survive a Plague. A riveting, powerful telling of the story of the grassroots movement of activists, many of them in a life-or-death struggle, who seized upon scientific research to help develop the drugs that turned HIV from a mostly fatal infection to a manageable disease.",
+        "category": "Public Health"
+    },
+    {
+        "title": "Public Health Emergency Preparedness",
+        "author": "Suzet McKinney",
+        "owner": "Asharful Islam",
+        "cover": "https://m.media-amazon.com/images/I/51H3lb7LHmL.jpg",
+        "description": "Public Health Emergency Preparedness: Practical Applications for the Real World is a comprehensive examination of the critical competencies necessary to prepare for and respond to Public Health emergencies. Starting with a historical context of the early preparedness need, the book defines emergency preparedness and the legal framework for the field. The book goes on to cover the full range of the field from hazards and threats to considerations for leadership development in the field.",
+        "category": "Public Health"
+    }
+]
